@@ -1,3 +1,4 @@
+# A simple app recreating an etch-a-sketch using the Turtle module.
 from turtle import Turtle, Screen
 
 
